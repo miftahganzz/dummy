@@ -1,7 +1,7 @@
 <h2 align="center">Anime Quote ✨</h2>
 
 <p align="center">
-  <img src="quotes-img/22-04-2025-16-03.png" alt="Akito Takagi" width="300"/>
+  <img src="quotes-img/22-04-2025-17-00.png" alt="Kyouya Hashiba" width="300"/>
 </p>
 
 ---
