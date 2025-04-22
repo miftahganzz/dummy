@@ -1,13 +1,9 @@
-<h1 align="center">Anime Quote of the Hour</h1>
+<h2 align="center">Anime Quote ✨</h2>
+
 <p align="center">
-  <img src="https://otakotaku.com/asset/img/character/thumb/52x71/2016/10/washijou-tanji-57f8ab947d044p.jpg" alt="Tanji Washijou" />
+  <img src="quotes-img/22-04-2025-14-57.png" alt="Ryouta Kise" width="300"/>
 </p>
-
-### "Semakin tinggi tujuan yang ingin dia capai, maka rintangan yang dilaluinya akan semakin besar."
-— Tanji Washijou, Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou (Episode 10)
-
-[**Read More**](https://otakotaku.com/quote/view/1254/semakin-tinggi-tujuan-yang-ingin-dicapai)
 
 ---
 
-<p align="center">Powered by ITzpire API | Auto-updating every hour</p>
+<p align="center">Powered by Itzpire & Fastrul API</p>
