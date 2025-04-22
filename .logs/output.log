@@ -1,0 +1,147 @@
+From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[main a23f0f7] Update quote image: Kyouya Hashiba from Bokutachi no Remake
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 quotes-img/22-04-2025-17-00.png
+To github.com:miftahganzz/dummy.git
+   885b7a4..a23f0f7  main -> main
+{"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 581"}From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[main d5f0bab] Update quote image: Himmel from Sousou no Frieren
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 quotes-img/22-04-2025-18-00.png
+To github.com:miftahganzz/dummy.git
+   a23f0f7..d5f0bab  main -> main
+{"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 706"}From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[main ac0e8f6] Update quote image: Haruhiko Ichijou from Musaigen no Phantom World
+ 2 files changed, 1 insertion(+), 1 deletion(-)
+ create mode 100644 quotes-img/22-04-2025-19-00.png
+To github.com:miftahganzz/dummy.git
+   d5f0bab..ac0e8f6  main -> main
+{"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 715"}From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+{"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Character '.' is reserved and must be escaped with the preceding '\\'"}[main c8dd24f] Update quote image: Nenek Buyut Mikage from Gin no Saji
+ 2 files changed, 1 insertion(+), 4 deletions(-)
+ create mode 100644 quotes-img/22-04-2025-20-00.png
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:miftahganzz/quotes.git        
+To github.com:miftahganzz/dummy.git
+   9e02886..c8dd24f  main -> main
+{"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Character '.' is reserved and must be escaped with the preceding '\\'"}sed: -e expression #15, char 10: Invalid preceding regular expression
+sed: -e expression #15, char 10: Invalid preceding regular expression
+sed: -e expression #15, char 10: Invalid preceding regular expression
+sed: -e expression #15, char 10: Invalid preceding regular expression
+sed: -e expression #15, char 10: Invalid preceding regular expression
+{"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Character '!' is reserved and must be escaped with the preceding '\\'"}From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+{"ok":true,"result":{"message_id":20475,"from":{"id":6152226918,"is_bot":true,"first_name":"Miy","username":"FregenBot"},"chat":{"id":5675049989,"first_name":"Miftah","username":"miftahganzz","type":"private"},"date":1745330428,"text":"  Image berhasil dibuat: Akane Sonoyama dari Kubikiri Cycle: Aoiro Savant to Zaregototsukai.","entities":[{"offset":0,"length":24,"type":"bold"},{"offset":45,"length":46,"type":"italic"}]}}[main 2cc41a1] Update quote: Akane Sonoyama (Kubikiri Cycle: Aoiro Savant to Zaregototsukai)
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+ create mode 100644 quotes-img/2025-04-22_21-00-09.png
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:miftahganzz/quotes.git        
+To github.com:miftahganzz/dummy.git
+   1e9f392..2cc41a1  main -> main
+{"ok":true,"result":{"message_id":20476,"from":{"id":6152226918,"is_bot":true,"first_name":"Miy","username":"FregenBot"},"chat":{"id":5675049989,"first_name":"Miftah","username":"miftahganzz","type":"private"},"date":1745330434,"text":"  Commit & push berhasil!","entities":[{"offset":0,"length":25,"type":"bold"}]}}{"ok":true,"result":{"message_id":20477,"from":{"id":6152226918,"is_bot":true,"first_name":"Miy","username":"FregenBot"},"chat":{"id":5675049989,"first_name":"Miftah","username":"miftahganzz","type":"private"},"date":1745330436,"text":"  Anime Quote Updated!\n  Time: 2025-04-22 21:00:33\n  Character: Akane Sonoyama\n  Anime: Kubikiri Cycle: Aoiro Savant to Zaregototsukai\n  Episode: Episode 4\n\n  Quote:\nAku selalu siap menerima (kematian). Bila ajal menjemput, maka memang lebih baik mati. Aku, Akane Sonoyama tak akan mengeluh dibunuh, tak peduli kapan, di mana,...\n\n  View Commit | Source","entities":[{"offset":0,"length":22,"type":"bold"},{"offset":23,"length":7,"type":"bold"},{"offset":51,"length":12,"type":"bold"},{"offset":79,"length":8,"type":"bold"},{"offset":135,"length":10,"type":"bold"},{"offset":157,"length":8,"type":"bold"},{"offset":166,"length":163,"type":"italic"},{"offset":333,"length":11,"type":"text_link","url":"https://github.com/miftahganzz/quotes/commit/2cc41a1"},{"offset":347,"length":6,"type":"text_link","url":"https://otakotaku.com/quote/view/1440/menerima-kematian"}],"link_preview_options":{"url":"https://github.com/miftahganzz/quotes/commit/2cc41a1"}}}From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+success
+[main e1dda14] Update quote: Yuito Aoi (Irozuku Sekai no Ashita kara)
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 quotes-img/2025-04-22_22-00-08.png
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:miftahganzz/quotes.git        
+To github.com:miftahganzz/dummy.git
+   1f95ffb..e1dda14  main -> main
+done
+/storage/emulated/0/Download/art.sh: line 141: Warna: command not found
+From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+{"ok":false,"error_code":404,"description":"Not Found"}[main df0be75] Update quote: Shuu Matsubara (Re:CREATORS)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:miftahganzz/quotes.git        
+To github.com:miftahganzz/dummy.git
+   7adfc8d..df0be75  main -> main
+{"ok":false,"error_code":404,"description":"Not Found"}{"ok":false,"error_code":404,"description":"Not Found"}From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+{"ok":false,"error_code":404,"description":"Not Found"}On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.logs/.count
+	.logs/debug.log
+	.logs/output.log
+	quotes-img/2025-04-22_23-00-08.png
+	quotes-img/2025-04-23_00-00-10.png
+
+nothing added to commit but untracked files present (use "git add" to track)
+{"ok":false,"error_code":404,"description":"Not Found"}From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+{"ok":false,"error_code":404,"description":"Not Found"}On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.logs/.count
+	.logs/debug.log
+	.logs/output.log
+	quotes-img/2025-04-22_23-00-08.png
+	quotes-img/2025-04-23_00-00-10.png
+	quotes-img/2025-04-23_01-00-08.png
+
+nothing added to commit but untracked files present (use "git add" to track)
+{"ok":false,"error_code":404,"description":"Not Found"}From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+{"ok":false,"error_code":404,"description":"Not Found"}On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.logs/.count
+	.logs/debug.log
+	.logs/output.log
+	quotes-img/2025-04-22_23-00-08.png
+	quotes-img/2025-04-23_00-00-10.png
+	quotes-img/2025-04-23_01-00-08.png
+	quotes-img/2025-04-23_02-00-07.png
+
+nothing added to commit but untracked files present (use "git add" to track)
+{"ok":false,"error_code":404,"description":"Not Found"}From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+{"ok":false,"error_code":404,"description":"Not Found"}On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.logs/.count
+	.logs/debug.log
+	.logs/output.log
+	quotes-img/2025-04-22_23-00-08.png
+	quotes-img/2025-04-23_00-00-10.png
+	quotes-img/2025-04-23_01-00-08.png
+	quotes-img/2025-04-23_02-00-07.png
+	quotes-img/2025-04-23_03-00-07.png
+
+nothing added to commit but untracked files present (use "git add" to track)
+{"ok":false,"error_code":404,"description":"Not Found"}From github.com:miftahganzz/dummy
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+{"ok":false,"error_code":404,"description":"Not Found"}On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.logs/.count
+	.logs/debug.log
+	.logs/output.log
+	quotes-img/2025-04-22_23-00-08.png
+	quotes-img/2025-04-23_00-00-10.png
+	quotes-img/2025-04-23_01-00-08.png
+	quotes-img/2025-04-23_02-00-07.png
+	quotes-img/2025-04-23_03-00-07.png
+	quotes-img/2025-04-23_04-00-07.png
+
+nothing added to commit but untracked files present (use "git add" to track)
+{"ok":false,"error_code":404,"description":"Not Found"}
