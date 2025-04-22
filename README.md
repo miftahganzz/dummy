@@ -1,19 +1,13 @@
-<h1 align="center">Anime Quote of the Day</h1>
-
+<h1 align="center">Anime Quote of the Hour</h1>
 <p align="center">
-  <img src="https://otakotaku.com/asset/img/character/thumb/52x71/2016/02/sonoda-umi.jpg" alt="Umi Sonoda" />
+  <img src="https://otakotaku.com/asset/img/character/thumb/52x71/2016/10/washijou-tanji-57f8ab947d044p.jpg" alt="Tanji Washijou" />
 </p>
 
-<blockquote>
-  <p>"Kami sudah terbiasa diseret olehmu. Jadi, sebagai gantinya, bawalah kami ke dunia yang belum pernah kami lihat."</p>
-  <p><strong>— Umi Sonoda</strong><br>
-  <em>Love Live! School Idol Project</em> (Episode 13)</p>
-</blockquote>
+### "Semakin tinggi tujuan yang ingin dia capai, maka rintangan yang dilaluinya akan semakin besar."
+— Tanji Washijou, Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou (Episode 10)
 
-<p align="center">
-  <a href="https://otakotaku.com/quote/view/964/bawalah-kami" target="_blank">View on Otakotaku</a>
-</p>
+[**Read More**](https://otakotaku.com/quote/view/1254/semakin-tinggi-tujuan-yang-ingin-dicapai)
 
 ---
 
-<p align="center">Automated Quotes System</p>
+<p align="center">Powered by ITzpire API | Auto-updating every hour</p>
