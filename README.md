@@ -1,6 +1,6 @@
 <h2 align="center">Anime Quote ✨</h2>
 <p align="center">
-  <img src="quotes-img/2025-04-28_03-00-27.png" alt="Maes Hughes" width="300"/>
+  <img src="quotes-img/2025-04-28_04-00-08.png" alt="Mayuri Shiina" width="300"/>
 </p>
 
 <p align="center">Powered by ITzpire & Fasturl API</p>
